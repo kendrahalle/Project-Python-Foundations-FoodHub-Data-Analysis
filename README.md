@@ -1,2 +1,4 @@
 # Project-Python-Foundations-FoodHub-Data-Analysis
-The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business.
+For this project, I helped a mock food aggregator company make sense of their customer order data. The company had stored thousands of transactions from their online portal, and they wanted to extract actionable insights to drive smarter business decisions.
+
+I tackled key questions around customer behavior, order trends, and operational efficiency to turn raw data into strategic recommendations that could directly improve the business. This project sharpened my skills in data wrangling, exploratory analysis, and insight communication.
